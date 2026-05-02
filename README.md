@@ -135,6 +135,11 @@ Output is printed to the terminal, e.g. `กข 1234 กรุงเทพมห
 
 **Character Recogniser (YOLO11n)**
 
+| Split | mAP@50 | mAP@50-95 | Precision | Recall |
+|-------|--------|-----------|-----------|--------|
+| Val   | 0.9370  | 0.8083     | 0.9016     | 0.8993  |
+| Test  | 0.9644  | 0.8914     | 0.8881     | 0.9457  |
+
 |             | CAR    | WAR    |
 |-------------|--------|--------|
 | Number      | 92.27% | 70.73% |
